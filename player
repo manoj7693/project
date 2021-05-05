@@ -1,0 +1,11 @@
+<html>  
+<head>  
+    <title>Music Player </title>  
+</head>  
+<body>  
+    <audio controls="”controls”">  
+<source src=”music .mp3” type=”audio/mp3”>  
+<source src=”music .ogg” type=”audio/ogg”>  
+</audio>  
+</body>  
+</html> 
